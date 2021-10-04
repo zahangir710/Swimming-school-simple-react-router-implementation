@@ -1,0 +1,21 @@
+a:hover {
+  color: lightgray;
+}
+.link {
+  text-decoration: none;
+  padding: 15px;
+  color: #fff;
+  line-height: 40px;
+}
+.backgraound {
+  background-color: #20232a;
+}
+.selected {
+  border-bottom: 3px solid #fff;
+}
+.logo-text {
+  color: #fff;
+  font-size: 30px;
+  padding: 0px 20px;
+  text-decoration: none;
+}

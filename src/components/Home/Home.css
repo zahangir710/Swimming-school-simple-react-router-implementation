@@ -1,1 +1,8 @@
-
+.display-services {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.margin {
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
