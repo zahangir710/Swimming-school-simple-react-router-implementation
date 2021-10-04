@@ -1,35 +1,29 @@
-# Getting Started with Create React App
+# Swimming School simple React app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## The Project Live Link : https://simple-swimming-school-react-app.netlify.app/
 
-In the project directory, you can run:
+### App descriptions:
 
-### `npm start`
+In this app, you can Learn about different services of the swimming school.
+There are different package for diffent categories of people.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Home component and Services component
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Both Home and Services components use Service component as a child component. Only first four data are loaded in the home page and a button to show all the services. This button actually redirects to Services component.
+A custom hook named 'useServices' is used to load data and the hook is used in both the Home and Services components.
 
-### `npm test`
+### Instructors component
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
+The Instructors component uses anothe custom hook named 'useUsers' to load random user data. This users are shown as the instructors.
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
+### This app is Deployed in Netlify
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
