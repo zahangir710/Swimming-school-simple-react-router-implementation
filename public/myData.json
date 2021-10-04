@@ -1,0 +1,110 @@
+[
+  {
+    "key": "all",
+    "service": "Swimming for all",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/photo-1600965962361-9035dbfd1c50?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHN3aW1taW5nJTIwcG9vbCUyMGZyZWV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "subscription": {
+      "daily": 3,
+      "monthly": 15,
+      "Annual": 35
+    },
+    "instractorName": "No instructor"
+  },
+  {
+    "key": "diving",
+    "service": "Diving Academy",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/photo-1489995849994-349ae1f421fd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+    "subscription": {
+      "daily": 5,
+      "monthly": 25,
+      "Annual": 60
+    },
+    "instractorName": "Marcus Stanly"
+  },
+  {
+    "key": "baby",
+    "service": "Baby Swimming",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/flagged/photo-1578467992042-7e2e9650cfbb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+    "subscription": {
+      "daily": 4,
+      "monthly": 20,
+      "Annual": 40
+    },
+    "instractorName": "Tom & Alina"
+  },
+  {
+    "key": "Children",
+    "service": "Childrean Swimming",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/photo-1592484806287-7bc9c8af5405?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+    "subscription": {
+      "daily": 2,
+      "monthly": 15,
+      "Annual": 30
+    },
+    "instractorName": "Tom"
+  },
+  {
+    "key": "adult",
+    "service": "Adult Beginner",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/photo-1518078807653-aa43111444a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "subscription": {
+      "daily": 5,
+      "monthly": 30,
+      "Annual": 100
+    },
+    "instractorName": "Marcus Stanly"
+  },
+  {
+    "key": "fitness",
+    "service": "Swimming for Fitness",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/photo-1559596561-33f7b006fb64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+    "subscription": {
+      "daily": 4,
+      "monthly": 25,
+      "Annual": 35
+    },
+    "instractorName": "No instructor"
+  },
+  {
+    "key": "private",
+    "service": "Private Swimming Lesson",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/photo-1574744918163-6cef6f4a31b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+    "subscription": {
+      "daily": 10,
+      "monthly": 150,
+      "Annual": 350
+    },
+    "instractorName": "Tom"
+  },
+  {
+    "key": "summer",
+    "service": "Summer Swimming",
+    "bookingStatus": "Unavailable",
+    "img": "https://images.unsplash.com/photo-1562844250-2ed6fb5ab2ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "subscription": {
+      "daily": 1.5,
+      "monthly": 15,
+      "Annual": 20
+    },
+    "instractorName": "No instructor"
+  },
+  {
+    "key": "five-nine",
+    "service": "Swimming after office",
+    "bookingStatus": "Available",
+    "img": "https://images.unsplash.com/photo-1531675518409-9f127c9e72a8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Z3V5JTIwc3dpbW1pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "subscription": {
+      "daily": 1,
+      "monthly": 15,
+      "Annual": 35
+    },
+    "instractorName": "No instructor"
+  }
+]
